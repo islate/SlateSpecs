@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
 
   s.dependency "SinaWeibo-Slate", "0.1.1"
   s.dependency "WeChat-Slate", "0.1.1"
-  s.dependency "QQ-Slate"
+  s.dependency "QQ-Slate", "0.1.1"
   s.dependency "AVOSCloud"
 end
